@@ -195,8 +195,6 @@ section {
 
 .advantages-subtitle {
   margin-bottom: 8px;
-  padding-bottom: 8px;
-  padding-top: 120px;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -205,7 +203,6 @@ section {
 }
 
 .advantages-subtitle-item {
-  padding-bottom: 120px;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -245,7 +242,6 @@ section {
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   border-radius: 0 0 4px 4px;
-  padding: 0px 0px 32px;
   background-color: #ffffff;
 }
 
@@ -255,7 +251,6 @@ section {
 
 .our-team-subtitle {
   margin-bottom: 8px;
-  padding-top: 32px;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -299,9 +294,6 @@ section {
   display: flex;
   flex-direction: column;
   width: calc((100% - 48px) / 3);
-  border-bottom: 1px solid #e7e9fc;
-  border-left: 1px solid #e7e9fc;
-  border-right: 1px solid #e7e9fc;
 }
 
 .name-category {
@@ -321,7 +313,6 @@ section {
 }
 
 .our-portfolio-subtitle-item {
-  padding: 8px 0 32px 16px;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -350,6 +341,5 @@ section {
 
 .footer-logo .logo-part {
   display: inline-block;
-  margin-bottom: 16px;
   color: #f4f4fd;
 }
